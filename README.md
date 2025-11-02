@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi, I'm Shaikh Uwaiz
 
-<!--
-**Shaikhuwaiz/shaikhuwaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Java + React + MongoDB)  
+Passionate about building dynamic web applications and learning cloud deployment.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Frontend:** React, TailwindCSS, HTML, CSS, JavaScript, TypeScript  
+- **Backend:** Node.js, Express, Spring Boot  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Railway, Vercel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Featured Project
+**Authpocalypse** — Secure login and registration system  
+[Live Demo](https://loginweb.vercel.app) | [Backend API](https://loginwebpage.up.railway.app)
+
+---
+
+📫 **Contact:**  
+[LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/Shaikhuwaiz)
