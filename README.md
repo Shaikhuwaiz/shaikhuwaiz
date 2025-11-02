@@ -16,4 +16,4 @@ Passionate about building dynamic web applications and learning cloud deployment
 ---
 
 📫 **Contact:**  
-[LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/Shaikhuwaiz)
+[LinkedIn](www.linkedin.com/in/owaiz-dev) | [GitHub](https://github.com/Shaikhuwaiz)
